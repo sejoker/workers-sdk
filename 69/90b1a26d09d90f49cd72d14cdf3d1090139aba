@@ -1,0 +1,63 @@
+packages/wrangler/src/__tests__/pipelines.test.ts
+  s_5d21a96f803454::t_f9770cff694fba 721-723,1069-1071,1435-1437
+.changeset/fuzzy-clouds-dance.md
+  s_5d21a96f803454::t_be55d5a3fa8996 5,7
+packages/wrangler/src/__tests__/index.test.ts
+  s_5d21a96f803454::t_d93ea5c38240a6 90,191
+packages/wrangler/src/pipelines/cli/create.ts
+  s_5d21a96f803454::t_1b3d43951a9e43 14
+packages/wrangler/src/pipelines/cli/delete.ts
+  s_5d21a96f803454::t_c88b4fda8f0d79 14
+packages/wrangler/src/pipelines/cli/get.ts
+  s_5d21a96f803454::t_43fd081604c0d5 14
+packages/wrangler/src/pipelines/cli/list.ts
+  s_5d21a96f803454::t_e4adb86c7a8ab2 12
+packages/wrangler/src/pipelines/cli/setup.ts
+  s_5d21a96f803454::t_3d4adeef3b32f2 385
+packages/wrangler/src/pipelines/cli/sinks/create.ts
+  s_5d21a96f803454::t_9bcf5c7a041d3f 54
+packages/wrangler/src/pipelines/cli/sinks/delete.ts
+  s_5d21a96f803454::t_8c3aa8964e86b4 12
+packages/wrangler/src/pipelines/cli/sinks/get.ts
+  s_5d21a96f803454::t_728d96720398ea 13
+packages/wrangler/src/pipelines/cli/sinks/index.ts
+  s_5d21a96f803454::t_32baa0f070e56b 7
+packages/wrangler/src/pipelines/cli/sinks/list.ts
+  s_5d21a96f803454::t_8d64e4fcc6b65d 10
+packages/wrangler/src/pipelines/cli/streams/create.ts
+  s_5d21a96f803454::t_b1c222d6cfa351 16
+packages/wrangler/src/pipelines/cli/streams/delete.ts
+  s_5d21a96f803454::t_001069213da3b8 12
+packages/wrangler/src/pipelines/cli/streams/get.ts
+  s_5d21a96f803454::t_ff8b3e7f64bd49 11
+packages/wrangler/src/pipelines/cli/streams/index.ts
+  s_5d21a96f803454::t_94ccb589890ca6 7
+packages/wrangler/src/pipelines/cli/streams/list.ts
+  s_5d21a96f803454::t_7110dabcef5f93 10
+packages/wrangler/src/pipelines/cli/update.ts
+  s_5d21a96f803454::t_00f357343a1466 12
+packages/wrangler/src/pipelines/index.ts
+  s_5d21a96f803454::t_94fd3c281b269c 166
+packages/wrangler/src/stratus/catalog.ts
+  s_5d21a96f803454::t_0fe6aebe9971fc 68,83,123,167,220,229,327,403,412,517
+packages/wrangler/src/stratus/index.ts
+  s_5d21a96f803454::t_0e44443b287bc5 6
+packages/wrangler/src/stratus/sql.ts
+  s_5d21a96f803454::t_76d9020d0a20e4 76,91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6990b1a26d09d90f49cd72d14cdf3d1090139aba",
+  "prompts": {},
+  "sessions": {
+    "s_5d21a96f803454": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c96f-2ac6-76b1-9036-c80b30ae2356",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Yevgen Safronov <yevgen@cloudflare.com>"
+    }
+  }
+}
