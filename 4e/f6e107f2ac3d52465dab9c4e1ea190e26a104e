@@ -1,0 +1,60 @@
+packages/wrangler/src/__tests__/r2/bulk.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 70,99,263
+packages/wrangler/src/pipelines/types.ts
+  s_5d21a96f803454::t_f7e548287ccaea 230
+packages/wrangler/src/__tests__/r2/catalog-force.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 68,85,110,123,180,197,219,232,256,297,415,435,459,477,559,561,594,624,626,655
+  s_5d21a96f803454::t_30603ae129f8d5 12
+packages/wrangler/src/r2/object.ts
+  s_5d21a96f803454::t_f7e548287ccaea 231,415-416,487,527-528,689,697
+packages/wrangler/src/stratus/catalog.ts
+  s_5d21a96f803454::t_f7e548287ccaea 67,69,82,84,108,114,122,124,129,138,149,152,155,166,168,174,182,204,207,219,221,228,230,259,314,326,328,383,393,402,404,411,413,446,504,516,518,582,593
+packages/wrangler/src/pipelines/cli/sinks/create.ts
+  s_5d21a96f803454::t_f7e548287ccaea 120,129,170,176,179
+packages/wrangler/src/__tests__/r2/bucket.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 898,904,942,960,968,1001,1048,1086,1088,1150,1289,1317,1325,1453,1504,1623,1651,1659,1753
+packages/wrangler/src/cfetch/internal.ts
+  s_5d21a96f803454::t_f7e548287ccaea 279
+packages/wrangler/src/pipelines/cli/sinks/utils.ts
+  s_5d21a96f803454::t_f7e548287ccaea 18
+packages/wrangler/src/r2/helpers/catalog.ts
+  s_5d21a96f803454::t_f7e548287ccaea 205
+packages/wrangler/src/__tests__/stratus/help.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 20
+packages/wrangler/src/r2/helpers/misc.ts
+  s_5d21a96f803454::t_f7e548287ccaea 43,46
+packages/wrangler/src/stratus/sql.ts
+  s_5d21a96f803454::t_f7e548287ccaea 90,97
+packages/wrangler/src/pipelines/cli/setup.ts
+  s_5d21a96f803454::t_f7e548287ccaea 147,149,720,975,1161
+packages/wrangler/src/r2/lifecycle.ts
+  s_5d21a96f803454::t_f7e548287ccaea 133,354-355,468,523-524
+.changeset/fuzzy-clouds-dance.md
+  s_5d21a96f803454::t_f7e548287ccaea 5,7
+packages/wrangler/src/pipelines/cli/sinks/list.ts
+  s_5d21a96f803454::t_f7e548287ccaea 59
+packages/wrangler/src/__tests__/pipelines.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 2287,2310,2347
+packages/wrangler/src/__tests__/pipelines-setup.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 1197,1258,1337,1369,1373,1456
+packages/wrangler/src/__tests__/stratus/sql.test.ts
+  s_5d21a96f803454::t_f7e548287ccaea 30,32
+packages/wrangler/src/core/teams.d.ts
+  s_5d21a96f803454::t_f7e548287ccaea 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4ef6e107f2ac3d52465dab9c4e1ea190e26a104e",
+  "prompts": {},
+  "sessions": {
+    "s_5d21a96f803454": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c96f-2ac6-76b1-9036-c80b30ae2356",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Yevgen Safronov <yevgen@cloudflare.com>"
+    }
+  }
+}
