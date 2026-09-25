@@ -1,0 +1,29 @@
+packages/wrangler/src/user/auth-variables.ts
+  s_966235cb18b74c::t_a354189ca21f06 3-4,9
+packages/wrangler/turbo.json
+  s_966235cb18b74c::t_a354189ca21f06 61
+packages/workers-utils/src/environment-variables/factory.ts
+  s_966235cb18b74c::t_a354189ca21f06 23
+packages/wrangler/src/__tests__/basin/sql.test.ts
+  s_966235cb18b74c::t_a354189ca21f06 51,66,71,77
+.changeset/fuzzy-clouds-dance.md
+  s_966235cb18b74c::t_a354189ca21f06 8-9
+packages/wrangler/src/basin/sql.ts
+  s_966235cb18b74c::t_a354189ca21f06 113,116,122,174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6e0b734e55ae2ec934dff37b18a1c06be84671ef",
+  "prompts": {},
+  "sessions": {
+    "s_966235cb18b74c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d80a-3065-7333-8d4b-3342a6a6d2f3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Yevgen Safronov <yevgen@cloudflare.com>"
+    }
+  }
+}
