@@ -1,0 +1,19 @@
+packages/wrangler/e2e/r2.test.ts
+  s_c0d172ea7e6712::t_8c27249b0cffc3 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "365d3a437513569f3423bd961dfc1b076f2a272f",
+  "prompts": {},
+  "sessions": {
+    "s_c0d172ea7e6712": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ee78-31bb-7f42-b41e-f4d1465b643e",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Yevgen Safronov <yevgen@cloudflare.com>"
+    }
+  }
+}
